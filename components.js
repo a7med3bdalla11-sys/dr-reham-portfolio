@@ -9,7 +9,7 @@ const navbarHTML = `
 // 2. الهيدر والبايو وصورة البروفايل (Hero Section)
 const heroHTML = `
     <div class="hero-container">
-        <img src="./pics/profile.jpeg" alt="الصورة الشخصية" class="profile-img">
+        <img src="./pics/profilemmm.jpeg" alt="الصورة الشخصية" class="profile-img">
         <div class="hero-text">
             <h1>دكتور / ريهام عبدالفتاح عيد عمارة</h1>
             <div class="hero-subtitle">موجه لغة انجليزية</div>
